@@ -20,4 +20,4 @@ bar(x_lab_group, [bright_mean_rank2; dull_mean_rank2]);
 xlabel('Lab group');
 ylabel('Normalized mean rank');
 legend({'"Bright"', '"Dull"'});
-%title('Rosenthal & Lawson 1964, Table 2');
+title('Rosenthal & Lawson 1964, Table 2');
